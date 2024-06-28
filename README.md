@@ -1,4 +1,4 @@
-# Forecasting-Sales-using-Time-series-models
+# Forecasting-Sales-using-ARIMA and SARIMA Model
 # Overview
 This project implements Autoregressive Integrated Moving Average (ARIMA) and Seasonal ARIMA models to forecast monthly champagne sales data. ARIMA models are a popular choice for time series forecasting, providing insights into future trends and patterns based on historical data.
 
